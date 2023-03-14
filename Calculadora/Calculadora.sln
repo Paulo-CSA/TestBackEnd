@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTest-IMC", "MSTest-IMC\MSTest-IMC.csproj", "{5592DC99-C284-4A3A-B11C-274AE458540A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "XUnitTest\XUnitTest.csproj", "{C2FA8928-B66C-4CA5-ABF2-54401742DADB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5592DC99-C284-4A3A-B11C-274AE458540A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5592DC99-C284-4A3A-B11C-274AE458540A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5592DC99-C284-4A3A-B11C-274AE458540A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2FA8928-B66C-4CA5-ABF2-54401742DADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FA8928-B66C-4CA5-ABF2-54401742DADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FA8928-B66C-4CA5-ABF2-54401742DADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FA8928-B66C-4CA5-ABF2-54401742DADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
